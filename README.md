@@ -2,7 +2,7 @@
 
 - I'm Xiaoyang Ma, an undergraduate at Department of Electronic Engineering, Tsinghua University
 
-- currently doing research at Lab of Nanoscale Integrated Circuits and Systems (NICS), interested in FeFET and NV-FPGA
+- currently doing research at Lab of Nanoscale Integrated Circuits and Systems (NICS), interested in FeFET and Reconfigurable Computing
 
 - member of software department at [EESAST](https://eesast.com), working on web development
 
