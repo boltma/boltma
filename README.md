@@ -1,8 +1,8 @@
 # About myself
 
-- I'm Xiaoyang Ma, an undergraduate at Department of Electronic Engineering, Tsinghua University
+- I'm Xiaoyang Ma, a graduate student at Department of Electrical and Computer Engineering, Princeton University
 
-- currently doing research at Lab of Nanoscale Integrated Circuits and Systems (NICS), working on FeFET-based circuits and architectures
+- previous member at Lab of Nanoscale Integrated Circuits and Systems (NICS), worked on FeFET-based circuits and architectures
 
 - previous member of software department at [EESAST](https://eesast.com), worked on web development
 
