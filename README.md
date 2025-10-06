@@ -2,6 +2,8 @@
 
 - I'm Xiaoyang Ma, a graduate student at Department of Electrical and Computer Engineering, Princeton University
 
+- currently advised by Prof. Naveen Verma and Prof. James Sturm, working on wireless systems with large-area electronics
+
 - previous member at Lab of Nanoscale Integrated Circuits and Systems (NICS), worked on FeFET-based circuits and architectures
 
 - previous member of software department at [EESAST](https://eesast.com), worked on web development
